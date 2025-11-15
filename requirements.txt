@@ -1,2 +1,2 @@
 colorama
-#(You should run pip install -r requirements.txt to install the dependency.)
+#You should run "pip install -r requirements.txt" to install the dependency.
